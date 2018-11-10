@@ -1,0 +1,29 @@
+html {
+
+}
+
+body {
+	background-color: #acacac;
+}
+
+#popUpTime {
+	display: none;
+}
+
+.container {
+	border: 5px solid;
+	display: table;
+	height: 200px;
+	margin: auto;
+	padding:  5px;
+	width: 50%;
+}
+
+.oneL, .twoL {
+	width: 12.5%
+}
+
+.threeL {
+	column-span: 2;
+	width: 25%;
+}
